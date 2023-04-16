@@ -1,14 +1,10 @@
 {
-  "Scripter": {
-    "download_link": "",
-    "lastest_version": "1.0.0",
-    "minimum_version": "1.0.0",
+  "App": {
     "ads_on": "true",
     "url_blog": "https://bugkingk.github.io/",
     "url_github": "https://github.com/bugkingK",
     "url_mail": "rnjsrlans1@gmail.com",
     "url_ads": "https://bugkingk.github.io/home/scripterAds/",
-    "skip_ad_count": "5"
   },
   "version": {
     "minimum_version": "1.0.0",
