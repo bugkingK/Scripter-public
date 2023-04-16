@@ -1,6 +1,6 @@
 {
   "App": {
-    "ads_on": 1,
+    "ads_on": true,
     "url_blog": "https://bugkingk.github.io/",
     "url_github": "https://github.com/bugkingK",
     "url_mail": "rnjsrlans1@gmail.com",
