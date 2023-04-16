@@ -11,8 +11,8 @@
     "skip_ad_count": "5"
   },
   "version": {
-    "minimum_version": "1.0.0",
+    "minimum_version": "1.0.1",
     "download_link": "",
-    "service_on": "false"
+    "service_on": "true"
   }
 }
