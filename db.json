@@ -13,6 +13,6 @@
   "version": {
     "minimum_version": "1.0.0",
     "download_link": "",
-    "service_on": "true"
+    "service_on": "false"
   }
 }
