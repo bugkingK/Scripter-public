@@ -9,5 +9,10 @@
     "url_mail": "rnjsrlans1@gmail.com",
     "url_ads": "https://bugkingk.github.io/home/scripterAds/",
     "skip_ad_count": "5"
+  },
+  "version": {
+    "minimum_version": "1.0.0",
+    "download_link": "",
+    "service_on": "true"
   }
 }
